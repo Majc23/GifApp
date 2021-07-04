@@ -8,7 +8,7 @@ The app provides one screens:
 
 ## Main Page
 
-<img src="https://github.com/Majc23/react-gifexpertapp/blob/3c5987e04ff88942331d1aa41efd3dd58d9a8614/GifExpertApp.png" />
+<img src="https://github.com/Majc23/react-gifexpertapp/blob/ee9a4e21e02e89b28b5f8c303f2fd2ffc513418f/GifApp.png" />
 
 All the gifs are displayed on a single screen and when searching for the topic, a history was generated on the screen.
 
