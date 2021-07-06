@@ -12,6 +12,8 @@ The app provides one screens:
 
 All the gifs are displayed on a single screen and when searching for the topic, a history was generated on the screen.
 
+The information shown in the application is obtained from the API http://api.giphy.com/v1/gifs/search
+
 ## Installation
 
 To get started please follow the steps below:
